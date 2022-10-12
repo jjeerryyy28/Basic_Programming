@@ -1,7 +1,7 @@
 package recursion;
 
 import java.util.Scanner;
-
+//fib
 public class Fibonacci {
     public static int fib(int n){
         if(n<=1){
